@@ -1,2 +1,2 @@
 # sputnik-NNWE
-this is just the start will update soon
+this is just the start of the project will update soon
